@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="logo.png" group-title="Copa Libertadores", Universitario vs Deportes Tolima
+https://agvyby.fubohd.com/espn6/mono.m3u8?token=ec540a35f0be003444331191bcfff4b3fe39d05f-39-1779848895-1779830895
+#EXTINF:-1 tvg-logo="logo.png" group-title="Copa Libertadores", Nacional vs Coquimbo Unido
+https://agvyby.fubohd.com/espn5/mono.m3u8?token=3cfcb003b783a6d8bfbb4fcf5286d99912c2056f-ee-1779848999-1779830999
